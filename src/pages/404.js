@@ -1,6 +1,6 @@
 import React from "react"
-import Layout from "../components/layout/Layout"
-import SEO from "../components/layout/Seo"
+import Layout from "../components/layout/layout"
+import SEO from "../components/layout/seo"
 
 function NotFoundPage() {
   return (

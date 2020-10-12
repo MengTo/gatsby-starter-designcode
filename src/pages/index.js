@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
-import Layout from "../components/layout/Layout"
-import SEO from "../components/layout/Seo"
+import Layout from "../components/layout/layout"
+import SEO from "../components/layout/seo"
 
 function IndexPage() {
   return (
